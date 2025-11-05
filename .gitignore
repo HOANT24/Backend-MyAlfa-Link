@@ -1,0 +1,29 @@
+# Ignore les modules installés
+node_modules/
+
+# Fichiers de log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Dossiers de build/production
+/dist
+/build
+
+# Dossiers et fichiers des éditeurs de texte
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Fichiers d'environnement sensibles
+
+
+# Fichiers temporaires de système d'exploitation
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
+# Dossiers et fichiers de couverture de code
+coverage/
+*.lcov
+.vercel
