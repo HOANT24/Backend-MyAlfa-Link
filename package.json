@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +15,14 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HOANT24/Backend-MyAlfa-Link.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HOANT24/Backend-MyAlfa-Link/issues"
+  },
+  "homepage": "https://github.com/HOANT24/Backend-MyAlfa-Link#readme"
 }
